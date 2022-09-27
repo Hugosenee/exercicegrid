@@ -1,0 +1,168 @@
+*{
+    background-color: bisque;
+    margin: 0;
+    padding: 0;
+}
+
+.tout{
+    background-color: grey;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+
+.gauche{
+    background-color: red;
+    width: 57%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.droite{
+    background-color: blue;
+    width: 43%;
+    height: 100vh;
+    display: flex;
+    justify-content: left;
+}
+
+.un23{
+    background-color: lightblue;
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    justify-content: left;
+}
+
+.un{
+    background-color: yellow;
+    width: 25%;
+    height: 20vh;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.deux{
+    background-color: red;
+    width: 25%;
+    height: 20vh;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.trois{
+    background-color: blue;
+    width: 50%;
+    height: 20vh;
+    text-align: center;
+    font-size: xx-large;
+}
+
+
+
+.six7{
+    background-color: lightcoral;
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    justify-content: left;
+}
+
+.six{
+    background-color: purple;
+    width: 75%;
+    height: 20vh;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.sept{
+    background-color: pink;
+    width: 25%;
+    height: 20vh;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.huit9{
+    background-color: lightgreen;
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    justify-content: left;
+}
+
+.huit{
+    background-color: lightblue;
+    width: 50%;
+    height: 40vh;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.neuf{
+    background-color: lightcoral;
+    width: 50%;
+    height: 40vh;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.dix{
+    background-color: lightgreen;
+    width: 100%;
+    height: 20vh;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.quatre{
+    background-color: green;
+    width: 35%;
+    height: 100vh;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.cinq1112{
+    background-color: lightskyblue;
+    width: 65%; 
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.cinq{
+    background-color: orange;
+    width: 100%;
+    height: 40vh;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.onze12{
+    display: flex;
+    justify-content: left;
+}
+
+.onze{
+    background-color: lightpink;
+    width: 50%;
+    height: 60vh;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.douze{
+    background-color: darkblue;
+    width: 50%;
+    height: 60vh;
+    text-align: center;
+    font-size: xx-large;
+}
+
+
+
+
+
